@@ -9,7 +9,7 @@
     "react-dom": "^16.10.1",
     "react-mdl": "^1.11.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,6 +41,6 @@
     "babel-jest": "^24.9.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
-    "jest": "^24.9.0"
+    "jest": "^30.0.4"
   }
 }
